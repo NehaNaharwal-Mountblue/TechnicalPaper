@@ -40,6 +40,7 @@ In this paper we are going to cover the basic datatypes and data structures.
  1. We use global Symbol() function to create any new symbol.
     example:
     let firstSymbol = Symbol('first');
+    
  2. The Symbol() function creates a new unique value each time you call it.
    
  3. The Symbol() function accepts a description as an optional argument. The description argument will make your symbol more descriptive.
